@@ -1,4 +1,4 @@
-# web-module-element
+# element-web-modules
 A Web Module for Matrix Collab. 
 
 ## Includes
